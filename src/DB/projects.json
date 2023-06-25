@@ -231,6 +231,7 @@
   "title": "LinksHub",
   "description": "LinksHub is an open source Hub of ready-to-use tech resources. It contains links to free resources such as images, fonts, color, animation, languages and many more.",
   "tech": ["TypeScript", "NextJS", "TailwindCSS"]
-  }
+  },
+  { "gh-username": "lokeshvasnik", "link": "https://github.com/lokeshvasnik/Modern-Notes", "title": "Modern Notes", "description": "Modern Notes is a free platform for creating notes with a good UI experience", "tech": ["React"] }
 
 ]
